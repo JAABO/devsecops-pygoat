@@ -9,7 +9,7 @@ our roadmap build intentionally vuln web Application in django. The Vulnerabilit
 
 Table of Contents
 =================
-a
+
 * [pygoat](#pygoat)
    * [Installation](#installation)
       * [From Sources](#from-sources)
